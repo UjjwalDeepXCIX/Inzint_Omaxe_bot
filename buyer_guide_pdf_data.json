@@ -1,0 +1,510 @@
+[
+{
+    "tag": "ALLOTTE_definition",
+    "patterns": [
+      "What is the meaning of 'ALLOTTE' in real estate projects?",
+      "Define 'ALLOTTE' as per the Real Estate (Regulation & Development) Act, 2016.",
+      "Who is considered as an 'ALLOTTE' in the context of real estate?"
+    ],
+    "responses": [
+      "'ALLOTTE' in relation to a real estate project means the person to whom a plot, apartment, or building has been allotted, sold, or otherwise transferred by the promoter. It includes the person who subsequently acquires the allotment through sale, transfer, or otherwise, excluding those given on rent."
+    ]
+  },
+  {
+    "tag": "Carpet_area_definition",
+    "patterns": [
+      "What does 'Carpet area' mean in the context of real estate?",
+      "Define 'Carpet area' as per the Real Estate (Regulation & Development) Act, 2016.",
+      "Explain the concept of 'Carpet area' in apartment measurement."
+    ],
+    "responses": [
+      "'Carpet area' refers to the net usable floor area of an apartment, excluding external walls, areas under services shafts, exclusive balcony or verandah area, and exclusive open terrace area. It includes the area covered by the internal partition walls of the apartment."
+    ]
+  },
+  {
+    "tag": "exclusive_balcony_verandah_area_definition",
+    "patterns": [
+      "What is the meaning of 'exclusive balcony or verandah area'?",
+      "Define 'exclusive balcony or verandah area' in real estate terms.",
+      "Explain the concept of 'exclusive balcony or verandah area.'"
+    ],
+    "responses": [
+      "For the purpose of this clause, 'exclusive balcony or verandah area' refers to the area of the balcony or verandah, as the case may be, which is appurtenant to the net usable floor area of an apartment. It is meant for the exclusive use of the allottee."
+    ]
+  },
+  {
+    "tag": "exclusive_open_terrace_area_definition",
+    "patterns": [
+      "What is the meaning of 'exclusive open terrace area'?",
+      "Define 'exclusive open terrace area' as per the Real Estate (Regulation & Development) Act, 2016.",
+      "Explain the concept of 'exclusive open terrace area' in real estate projects."
+    ],
+    "responses": [
+      "'Exclusive open terrace area' means the area of the open terrace which is appurtenant to the net usable floor area of an apartment. It is meant for the exclusive use of the allottee."
+    ]
+  },
+  {
+    "tag": "common_area_definition",
+    "patterns": [
+      "What is the meaning of 'Common Area'?",
+      "Define 'Common Area' in the context of a real estate project.",
+      "Explain the concept of 'Common Area' as per the Real Estate (Regulation & Development) Act, 2016."
+    ],
+    "responses": "For the purpose of this clause, 'Common Area' refers to (i) the entire land for the real estate project or, in the case where the project is developed in phases and registration under this Act is sought for a phase, the entire land for that phase."
+  },
+  {
+    "tag": "common_area_additional_definition",
+    "patterns": [
+      "What does 'Common Area' include in terms of staircases, lifts, and building entrances?",
+      "Define the components of 'Common Area' as per clause (ii).",
+      "Explain the inclusions under 'Common Area' related to staircases, lifts, and building entrances."
+    ],
+    "responses": "For the purpose of this clause, 'Common Area' includes (ii) the staircases, lifts, staircase and lift lobbies, fire escapes, and common entrances and exits of buildings."
+  },
+  {
+    "tag": "common_area_basements_parks_definition",
+    "patterns": [
+      "What is included in 'Common Area' in terms of basements, terraces, parks, and play areas?",
+      "Define the components of 'Common Area' as per clause (iii).",
+      "Explain the inclusions under 'Common Area' related to basements, terraces, parks, and play areas."
+    ],
+    "responses": "For the purpose of this clause, 'Common Area' includes (iii) the common basements, terraces, parks, play areas, open parking areas, and common storage spaces."
+  },
+  {
+    "tag": "common_area_premises_for_lodging_definition",
+    "patterns": [
+      "What is considered part of 'Common Area' regarding premises for lodging?",
+      "Define the components of 'Common Area' as per clause (iv).",
+      "Explain the inclusions under 'Common Area' related to premises for lodging."
+    ],
+    "responses": "For the purpose of this clause, 'Common Area' includes (iv) the premises for the lodging of persons employed for the management of the property, including accommodation for watch and ward staffs or for the lodging of community service personnel."
+  },
+  {
+    "tag": "common_area_central_services_definition",
+    "patterns": [
+      "What installations are part of 'Common Area' under central services?",
+      "Define the components of 'Common Area' as per clause (v).",
+      "Explain the inclusions under 'Common Area' related to installations of central services."
+    ],
+    "responses": "For the purpose of this clause, 'Common Area' includes (v) installations of central services such as electricity, gas, water and sanitation, air-conditioning and incinerating, systems for water conservation, and renewable energy."
+  },
+  {
+    "tag": "common_area_water_tanks_definition",
+    "patterns": [
+      "What is included in 'Common Area' regarding water tanks, motors, and ducts?",
+      "Define the components of 'Common Area' as per clause (vi).",
+      "Explain the inclusions under 'Common Area' related to water tanks, motors, fans, compressors, ducts, and all apparatus connected with installations for common use."
+    ],
+    "responses": "For the purpose of this clause, 'Common Area' includes (vi) the water tanks, sumps, motors, fans, compressors, ducts, and all apparatus connected with installations for common use."
+  },
+  {
+    "tag": "common_area_community_commercial_facilities_definition",
+    "patterns": [
+      "What facilities are considered part of 'Common Area' under community and commercial aspects?",
+      "Define the components of 'Common Area' as per clause (vii).",
+      "Explain the inclusions under 'Common Area' related to community and commercial facilities."
+    ],
+    "responses": "For the purpose of this clause, 'Common Area' includes (vii) all community and commercial facilities as provided in the real estate project."
+  },
+  {
+    "tag": "common_area_other_portion_definition",
+    "patterns": [
+      "What does 'Common Area' encompass in terms of other project portions for maintenance and safety?",
+      "Define the components of 'Common Area' as per clause (viii).",
+      "Explain the inclusions under 'Common Area' related to other portions necessary or convenient for maintenance, safety, etc."
+    ],
+    "responses": "For the purpose of this clause, 'Common Area' includes (viii) all other portions of the project necessary or convenient for its maintenance, safety, etc., and in common use."
+  },
+  {
+    "tag": "external_development_works_definition",
+    "patterns": [
+      "What is included in 'External Development works'?",
+      "Define 'External Development works' as per the Real Estate (Regulation & Development) Act, 2016.",
+      "Explain the components of 'External Development works' in a real estate project."
+    ],
+    "responses": "'External Development works' includes roads and road systems, landscaping, water supply, sewerage and drainage systems, electricity supply transformer, sub-station, solid waste management and disposal, or any other work which may have to be executed in the periphery of, or outside, a project for its benefit, as may be provided under the local laws."
+  },
+  {
+    "tag": "promoter_definition",
+    "patterns": [
+      "Who is considered a 'Promoter' in the context of real estate projects?",
+      "Define 'Promoter' as per the Real Estate (Regulation & Development) Act, 2016.",
+      "Explain the concept of 'Promoter' in relation to real estate."
+    ],
+    "responses": "'Promoter' means a person who constructs or causes to be constructed an independent building or a building consisting of apartments, or converts an existing building or a part thereof into apartments, for the purpose of selling all or some of the apartments to other persons and includes his assignees."
+  },
+  {
+    "tag": "real_estate_project_definition",
+    "patterns": [
+      "What is the meaning of 'Real Estate Project'?",
+      "Define 'Real Estate Project' as per the Real Estate (Regulation & Development) Act, 2016.",
+      "Explain the concept of 'Real Estate Project' in the context of real estate."
+    ],
+    "responses": "'Real Estate Project' means the development of a building or a building consisting of apartments, or converting an existing building or a part thereof into apartments, or the development of land into plots or apartments, as the case may be, for the purpose of selling all or some of the said apartments or plots or building, as the case may be, and includes the common areas, the development works, all improvements, structures, and other things of the project necessary or convenient for its maintenance, safety, and sanitation."
+  },
+  {
+    "tag": "real_estate_regulatory_authority_definition",
+    "patterns": [
+      "What is the meaning of 'Real Estate Regulatory Authority'?",
+      "Define 'Real Estate Regulatory Authority' as per the Real Estate (Regulation & Development) Act, 2016.",
+      "Explain the concept of 'Real Estate Regulatory Authority' in the context of real estate."
+    ],
+    "responses": "'Real Estate Regulatory Authority' means the authority established under sub-section (1) of section 20."
+  },
+  {
+    "tag": "real_estate_regulatory_authority_additional_definition",
+    "patterns": [
+      "What is the role of the 'Real Estate Regulatory Authority'?",
+      "Explain the functions of the 'Real Estate Regulatory Authority' as per the Act.",
+      "What are the responsibilities of the 'Real Estate Regulatory Authority'?"
+    ],
+    "responses": "The Real Estate Regulatory Authority shall perform the functions and exercise the powers conferred on it by or under this Act."
+  },
+  {
+    "tag": "internal_development_works_definition",
+    "patterns": [
+      "What is meant by 'Internal development works'?",
+      "Define 'Internal development works' in real estate terms.",
+      "Explain the concept of 'Internal development works' as per the Real Estate (Regulation & Development) Act, 2016."
+    ],
+    "responses": "'Internal development works' means roads, footpaths, water supply, sewers, drains, parks, tree planting, street lighting, provision for community buildings and for treatment and disposal of sewage and sullage water, solid waste management and disposal, water conservation, energy management, fire protection, and fire safety requirements, social infrastructure such as educational health and other public amenities, or any other work in a project for its benefit, as per sanctioned plans."
+  },
+  {
+    "tag": "common_area_other_portion_definition",
+    "patterns": [
+      "What does 'Common Area' encompass in terms of other project portions for maintenance and safety?",
+      "Define the components of 'Common Area' as per clause (viii).",
+      "Explain the inclusions under 'Common Area' related to other portions necessary or convenient for maintenance, safety, etc."
+    ],
+    "responses": "For the purpose of this clause, 'Common Area' includes (viii) all other portions of the project necessary or convenient for its maintenance, safety, etc., and in common use."
+  },
+  {
+    "tag": "common_area_basements_parks_definition",
+    "patterns": [
+      "What is included in 'Common Area' in terms of basements, terraces, parks, and play areas?",
+      "Define the components of 'Common Area' as per clause (iii).",
+      "Explain the inclusions under 'Common Area' related to basements, terraces, parks, and play areas."
+    ],
+    "responses": "For the purpose of this clause, 'Common Area' includes (iii) the common basements, terraces, parks, play areas, open parking areas, and common storage spaces."
+  },
+  {
+    "tag": "BSP_definition",
+    "patterns": [
+      "What does 'BSP' stand for?",
+      "Define 'BSP' as per real estate terminology.",
+      "Explain the concept of 'BSP' in property transactions."
+    ],
+    "responses": "'BSP' stands for Basic Sale Price."
+  },
+  {
+    "tag": "PLC_definition",
+    "patterns": [
+      "What is the meaning of 'PLC' in real estate?",
+      "Define 'PLC' as per property transactions.",
+      "Explain the concept of 'PLC' and its significance in real estate pricing."
+    ],
+    "responses": "'PLC' refers to Preferential Location Charges."
+  },
+  {
+    "tag": "DP_definition",
+    "patterns": [
+      "What does 'DP' represent in real estate terms?",
+      "Define 'DP' as per property transactions.",
+      "Explain the concept of 'DP' and its role in real estate payment plans."
+    ],
+    "responses": "'DP' stands for Down Payment Plan."
+  },
+  {
+    "tag": "CLP_definition",
+    "patterns": [
+      "What is the meaning of 'CLP' in real estate payment plans?",
+      "Define 'CLP' as per property transactions.",
+      "Explain the concept of 'CLP' and its application in real estate transactions."
+    ],
+    "responses": "'CLP' represents Construction Linked Plan."
+  },
+  {
+    "tag": "TLP_definition",
+    "patterns": [
+      "What does 'TLP' signify in real estate transactions?",
+      "Define 'TLP' as per property dealings.",
+      "Explain the concept of 'TLP' and its relevance in real estate payment structures."
+    ],
+    "responses": "'TLP' stands for Time Linked Plan."
+  },
+  {
+    "tag": "documents_required_definition",
+    "patterns": [
+      "What documents are typically required in real estate transactions?",
+      "List the documents required in property dealings.",
+      "Explain the necessary documents for real estate transactions."
+    ],
+    "responses": "Documents required in real estate transactions vary but commonly include proof of identity, residence, income, property details, and legal clearances."
+  },
+
+  {
+    "tag": "documents_required_salaried",
+    "patterns": [
+      "What documents are required for processing a home loan for salaried customers?",
+      "List of documents needed for home loan processing for salaried individuals."
+    ],
+    "responses": "Application form with photograph duly signed by all applicants, Identity, Residence, and age proof, PAN Card copy of the main applicant, Last three months Salary Slip, Education qualification certificate and proof of business existence, Last three years income tax returns with income computation, Last three years CA-certified/audited balance sheet and profit & loss account, Form 16/Income Tax Returns, Last six months bank statements, Processing fee Cheque"
+  },
+  {
+    "tag": "documents_required_self_employed_professionals",
+    "patterns": [
+      "What documents are required for processing a home loan for self-employed professionals?",
+      "List of documents needed for home loan processing for self-employed professionals."
+    ],
+    "responses": "Application form with photograph duly signed by all applicants, Identity, Residence, and age proof, PAN Card copy of the main applicant, Last three months Salary Slip, Education qualification certificate and proof of business existence, Last three years income tax returns with income computation, Last three years CA-certified/audited balance sheet and profit & loss account, Form 16/Income Tax Returns, Last six months bank statements, Processing fee Cheque"
+  },
+  {
+    "tag": "documents_required_self_employed_non_professionals",
+    "patterns": [
+      "What documents are required for processing a home loan for self-employed non-professionals?",
+      "List of documents needed for home loan processing for self-employed non-professionals."
+    ],
+    "responses": "Application form with photograph duly signed by all applicants, Identity, Residence, and age proof, PAN Card copy of the main applicant, Proof of business existence, Business Profile, Last three years income tax returns with income computation, Last three years CA-certified/audited balance sheet and profit & loss account, Last six months bank statements (Self and Business), Processing fee Cheque"
+  },
+  {
+    "tag": "documents_required_salaried_nris",
+    "patterns": [
+      "What documents are required for processing a home loan for salaried NRIs?",
+      "List of documents needed for home loan processing for salaried NRIs."
+    ],
+    "responses": "Application form with photograph duly signed by all applicants, Copy of valid passport showing visa stamps, Copy of valid visa/work/permit/equivalent document, Supporting NRI Status of the Proposed account holder"
+  },
+
+  {
+    "tag": "documents_required_change_address_individual",
+    "patterns": [
+      "What documents are required for a change of correspondence address for individuals?",
+      "List of documents needed for changing correspondence address for individuals."
+    ],
+    "responses": "Request Letter duly signed by Applicant(s) / Email/ Portal Request, Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill/Ration Card/Aadhar Card, Self Attested copy of ID proof (Mandatory)"
+  },
+  {
+    "tag": "documents_required_change_address_proprietorship_firm",
+    "patterns": [
+      "What documents are required for a change of correspondence address for proprietorship firms?",
+      "List of documents needed for changing correspondence address for proprietorship firms."
+    ],
+    "responses": "Request Letter duly signed from Customer (Proprietor), Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of Company Pan Card"
+  },
+  {
+    "tag": "documents_required_change_address_huf",
+    "patterns": [
+      "What documents are required for a change of correspondence address for Hindu undivided families (HUF)?",
+      "List of documents needed for changing correspondence address for HUFs."
+    ],
+    "responses": "Request Letter duly signed from Customer (KARTA), Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of ID proof (Mandatory)"
+  },
+  {
+    "tag": "documents_required_change_address_partnership_firm",
+    "patterns": [
+      "What documents are required for a change of correspondence address for partnership firms?",
+      "List of documents needed for changing correspondence address for partnership firms."
+    ],
+    "responses": "Request Letter duly signed by Authorized Partner, Self Attested Address Proof e.g. Govt. Documents which mention Address, Revised Partnership Deed"
+  },
+  {
+    "tag": "documents_required_change_address_company",
+    "patterns": [
+      "What documents are needed for a company's change of correspondence address?",
+      "List the required documents for changing a company's correspondence address.",
+      "What paperwork is necessary when a company changes its address?"
+    ],
+    "responses": "Request Letter from Company duly signed by Authorized Signatory, Form 18 & ROC FEE Receipt, Copy of Board Resolution, Intimation Letter from Company about the Change in Address, Additional necessary documents: - In case of change of address outside the local limits but within the state - copy of special resolution and form 23 is also required. - In case of change of address outside the state - copy of special resolution, form 23, copy of confirmation by Company Law Board(CLB), copy of notice in daily newspaper (regional language and English) is also required."
+  },
+  {
+    "tag": "documents_required_change_address_partnership_firm",
+    "patterns": [
+      "What documents are required for a partnership firm's change of correspondence address?",
+      "List the necessary documents for changing a partnership firm's correspondence address.",
+      "What paperwork is needed when a partnership firm changes its address?"
+    ],
+    "responses": "Request Letter duly signed by Authorized Partner, Self Attested Address Proof e.g. Govt. Documents which mention Address, Revised Partnership Deed"
+  },
+  {
+    "tag": "documents_required_change_address_individual",
+    "patterns": [
+      "What documents are needed for an individual's change of correspondence address?",
+      "List the required documents for changing an individual's correspondence address.",
+      "What paperwork is necessary when an individual changes their address?"
+    ],
+    "responses": "Request Letter duly signed by Applicant(s) / Email/ Portal Request, Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill/Ration Card/Aadhar Card, Self Attested copy of ID proof (Mandatory)"
+  },
+  {
+    "tag": "documents_required_change_permanent_address_individual",
+    "patterns": [
+      "What documents are needed for a change of permanent address for individuals before the execution of an agreement?",
+      "List the necessary documents for changing an individual's permanent address before agreement execution.",
+      "What paperwork is needed when an individual changes their permanent address prior to agreement execution?"
+    ],
+    "responses": "Request Letter duly signed by Applicant(s)/, E mail/Portal Request, Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of Company Pan Card"
+  },
+  {
+    "tag": "documents_required_change_permanent_address_proprietorship_firm",
+    "patterns": [
+      "What documents are required for a change of permanent address for proprietorship firms before the execution of an agreement?",
+      "List the necessary documents for changing a proprietorship firm's permanent address before agreement execution.",
+      "What paperwork is needed when a proprietorship firm changes its permanent address prior to agreement execution?"
+    ],
+    "responses": "Request Letter duly signed from Customer (Proprietor), Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of Company Pan Card"
+  },
+  {
+    "tag": "documents_required_change_permanent_address_huf",
+    "patterns": [
+      "What documents are required for a change of permanent address for Hindu undivided families (HUF) before the execution of an agreement?",
+      "List the necessary documents for changing an HUF's permanent address before agreement execution.",
+      "What paperwork is needed when an HUF changes its permanent address prior to agreement execution?"
+    ],
+    "responses": "Request Letter duly signed from Customer (KARTA), Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of Company Pan Card"
+  },
+  {
+    "tag": "documents_required_change_permanent_address_partnership_firm",
+    "patterns": [
+      "What documents are required for a change of permanent address for partnership firms before the execution of an agreement?",
+      "List the necessary documents for changing a partnership firm's permanent address before agreement execution.",
+      "What paperwork is needed when a partnership firm changes its permanent address prior to agreement execution?"
+    ],
+    "responses": "Request Letter duly signed by authorized Partners, Self Attested Address Proof e.g. Govt. Documents which mention Address, Revised Partnership Deed"
+  },
+  {
+    "tag": "documents_required_change_permanent_address_company",
+    "patterns": [
+      "What documents are required for a change of permanent address for companies before the execution of an agreement?",
+      "List the necessary documents for changing a company's permanent address before agreement execution.",
+      "What paperwork is needed when a company changes its permanent address prior to agreement execution?"
+    ],
+    "responses": "Request Letter from Company duly signed by Authorized Signatory, Form 18 & ROC FEE Receipt, Copy of Board Resolution, Intimation Letter from Company about the Change in Address, Additional necessary documents: - In case of change of address outside the local limits but within the state - copy of special resolution and form 23 is also required. - In case of change of address outside the state - copy of special resolution, form 23, copy of confirmation by Company Law Board(CLB), copy of notice in daily newspaper (regional language and English) is also required."
+  },
+  {
+    "tag": "documents_required_change_permanent_address_additional",
+    "patterns": [
+      "What additional documents may be required for changing a permanent address before the execution of an agreement?",
+      "List any extra paperwork needed for a change of permanent address before agreement execution.",
+      "Are there any supplementary documents required when changing a permanent address prior to agreement execution?"
+    ],
+    "responses": "In case of change of address outside the local limits but within the state - copy of special resolution and form 23 is also required. In case of change of address outside the state - copy of special resolution, form 23, copy of confirmation by Company Law Board(CLB), copy of notice in daily newspaper (regional language and English) is also required."
+  },
+  {
+    "tag": "documents_required_change_permanent_address_general",
+    "patterns": [
+      "What are the general documents required for a change of permanent address before the execution of an agreement?",
+      "List the standard paperwork needed for changing a permanent address before agreement execution.",
+      "What documents are commonly required when changing a permanent address prior to agreement execution?"
+    ],
+    "responses": "Request Letter duly signed, Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of Company Pan Card (if applicable)"
+  },
+  {
+    "tag": "documents_required_change_permanent_address_comparison",
+    "patterns": [
+      "How do the documents required for a change of permanent address compare across different entities?",
+      "Compare the necessary paperwork for changing permanent addresses for various entities before agreement execution.",
+      "What are the differences in document requirements for changing permanent addresses among individuals, firms, and companies?"
+    ],
+    "responses": "The required documents vary based on the entity type. Individuals need a signed request letter, address proof, and ID proof. Firms and companies have additional requirements, such as partnership deeds, board resolutions, and company-related documents."
+  },
+  {
+    "tag": "documents_required_correction_name_individual",
+    "patterns": [
+      "What documents are needed for the correction of name (spelling) for individuals before the execution of an agreement?",
+      "List the necessary documents for correcting an individual's name (spelling) before agreement execution.",
+      "What paperwork is needed when an individual corrects their name (spelling) prior to agreement execution?"
+    ],
+    "responses": "Request Letter duly Signed by applicant(s), Self Attested Copy of Voter ID Card, Self Attested Copy of PAN Card"
+  },
+  {
+    "tag": "documents_required_correction_name_proprietorship_firm",
+    "patterns": [
+      "What documents are required for the correction of name (spelling) for proprietorship firms before the execution of an agreement?",
+      "List the necessary documents for correcting a proprietorship firm's name (spelling) before agreement execution.",
+      "What paperwork is needed when a proprietorship firm corrects its name (spelling) prior to agreement execution?"
+    ],
+    "responses": "Request Letter duly Signed by Proprietor, Self Attested Copy of Voter ID Card, Self Attested Copy of PAN Card"
+  },
+  {
+    "tag": "documents_required_correction_name_huf",
+    "patterns": [
+      "What documents are required for the correction of name (spelling) for Hindu undivided families (HUF) before the execution of an agreement?",
+      "List the necessary documents for correcting an HUF's name (spelling) before agreement execution.",
+      "What paperwork is needed when an HUF corrects its name (spelling) prior to agreement execution?"
+    ],
+    "responses": "Request Letter duly Signed by KARTA, Self Attested Copy of Voter ID Card, Self Attested Copy of PAN Card both of KARTA & HUF"
+  },
+  {
+    "tag": "documents_required_correction_name_partnership_firm",
+    "patterns": [
+      "What documents are required for the correction of name (spelling) for partnership firms before the execution of an agreement?",
+      "List the necessary documents for correcting a partnership firm's name (spelling) before agreement execution.",
+      "What paperwork is needed when a partnership firm corrects its name (spelling) prior to agreement execution?"
+    ],
+    "responses": "Request Letter duly Signed by Authorized Partner, Self Attested Copy of PAN Card, Revised Partnership Deed"
+  },
+  {
+    "tag": "documents_required_correction_name_company",
+    "patterns": [
+      "What documents are required for the correction of name (spelling) for companies before the execution of an agreement?",
+      "List the necessary documents for correcting a company's name (spelling) before agreement execution.",
+      "What paperwork is needed when a company corrects its name (spelling) prior to agreement execution?"
+    ],
+    "responses": "Request Letter from Company duly signed by Authorized Signatory, Copy of Board Resolution, Self Attested Copy of INCORPORATION Certificate, Self Attested Copy of PAN Card"
+  },
+  {
+    "tag": "documents_required_correction_name_general",
+    "patterns": [
+      "What documents are needed for the correction of name (spelling) before the execution of an agreement?",
+      "List the necessary documents for correcting a name (spelling) before agreement execution.",
+      "What paperwork is needed when correcting a name (spelling) prior to agreement execution?"
+    ],
+    "responses": "Request Letter duly Signed by the concerned party, Relevant self-attested identification documents (e.g., Voter ID Card, PAN Card), Additional documents specific to the entity type (e.g., Revised Partnership Deed for partnership firms, Copy of INCORPORATION Certificate for companies)"
+  },
+  
+  {
+    "tag": "documents_required_booking_property_individual",
+    "patterns": [
+      "What documents are required for booking a property as an individual?",
+      "List the necessary documents for property booking as an individual.",
+      "What paperwork is needed when booking a property as an individual?"
+    ],
+    "responses": "Booking Application Form duly signed on every page by all applicants, Colored Photograph of all applicants, Signature on Agreed/Accepted Payment Plan, Self-attested Copy of PAN, Self-attested Copy of ID proof (Voter ID/PAN/Ration Card/Driving License/Passport), Self-attested Copy of Address proof (electricity/water/telephone/mobile bill), Complete Booking amount including GST, Self-attested copy of AADHAR"
+  },
+  {
+    "tag": "documents_required_booking_property_proprietorship_firm",
+    "patterns": [
+      "What documents are required for booking a property as a proprietorship firm?",
+      "List the necessary documents for property booking as a proprietorship firm.",
+      "What paperwork is needed when booking a property as a proprietorship firm?"
+    ],
+    "responses": "Booking Application Form duly signed on every page by the Applicant, Colored Photograph of all applicants, Signature on Agreed/Accepted Payment Plan, Self-attested Copy of PAN of Proprietorship firm and Applicant in his individual capacity, Self-attested Copy of ID proof (Voter ID/PAN/Ration Card/Driving License/Passport) of Proprietorship firm and Applicant in his individual capacity, Self-attested Copy of Address proof (electricity/water/telephone/mobile bill) of Proprietorship Firm and applicant in his Individual Capacity, Complete Booking amount including GST, Self-attested copy of AADHAR"
+  },
+  {
+    "tag": "documents_required_booking_property_huf",
+    "patterns": [
+      "What documents are required for booking a property as a Hindu undivided family (HUF)?",
+      "List the necessary documents for property booking as an HUF.",
+      "What paperwork is needed when booking a property as an HUF?"
+    ],
+    "responses": "Booking Application Form duly signed on every page by the Applicant with Stamp, Colored Photograph of all applicants, Signature on Agreed/Accepted Payment Plan, Self-attested Copy of PAN of HUF and of KARTA in his Individual Capacity, Self-attested Copy of ID proof (Voter ID/PAN/Ration Card/Driving License/Passport) of HUF and of KARTA in his Individual Capacity, Self-attested Copy of Address proof (electricity/water/telephone/mobile bill) of HUF and of KARTA in his Individual Capacity, Complete Booking amount including GST, Self-attested copy of AADHAR"
+  },
+  {
+    "tag": "documents_required_booking_property_partnership_firm",
+    "patterns": [
+      "What documents are required for booking a property as a partnership firm?",
+      "List the necessary documents for property booking as a partnership firm.",
+      "What paperwork is needed when booking a property as a partnership firm?"
+    ],
+    "responses": "Booking Application Form duly signed on every page by the Applicant (Authorized Partner with Stamp), Colored Photograph of all Partners, Signature on Agreed/Accepted Payment Plan, Authorization Letter on Firm's Letterhead signed by all Partners, Self-attested Copy of PAN of Partnership Firm and all Partners in their Individual Capacity, Self-attested Copy of ID proof (Voter ID/PAN/Ration Card/Driving License/Passport) of Partnership Firm and all Partners in their Individual Capacity, Self-attested Copy of Address proof (electricity/water/telephone/mobile bill) of Partnership Firm and all Partners in their Individual Capacity, Copy of duly signed Partnership Deed, Complete Booking amount including GST, Self-attested copy of AADHAR"
+  },
+  {
+    "tag": "documents_required_booking_property_company",
+    "patterns": [
+      "What documents are required for booking a property as a company?",
+      "List the necessary documents for property booking as a company.",
+      "What paperwork is needed when booking a property as a company?"
+    ],
+    "responses": "Booking Application Form duly signed on every page by the Applicant (Authorized Director with Stamp), Signature on Agreed/Accepted Payment Plan, List of Directors on Letterhead, Copy of Board Resolution authorizing Director who has signed on the Application Form, Self-attested Copy of PAN of Company, Self-attested Copy of Address proof (Form 18 and Latest Annual Return of the company), Certified True Copies of Memorandum of Association (MOA) & Articles of Association (AOA), Complete Booking amount including GST, Self-attested copy of AADHAR"
+  }
+  
+]
