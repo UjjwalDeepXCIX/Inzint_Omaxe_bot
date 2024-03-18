@@ -1,0 +1,261 @@
+{
+    "intents": [
+      {
+        "tag": "Greetings",
+        "patterns": [
+          "Hi",
+          "hi",
+          "Hello",
+          "Hey",
+          "Good morning",
+          "Good afternoon",
+          "Good evening",
+          "Hi there",
+          "Hi, how's your day going?",
+          "Hello there, what's new with you?",
+          "Hey, how can I help you today?",
+          "Good morning! How are you doing?",
+          "Good afternoon, what's on your mind?",
+          "Good evening! What brings you here?",
+          "Hi, it's nice to see you!",
+          "Hello! What can I do for you?",
+          "Hey there, how's everything going?",
+          "Hi, how have you been lately?"
+        ],
+        "responses": [
+          "Hello! How can I assist you today?"
+        ]
+      },
+      {
+        "tag": "Casual Conversation",
+        "patterns": [
+          "How's it going?",
+          "What's up?",
+          "How are you?",
+          "What's new?",
+          "How's your day?",
+          "What are you up to?",
+          "How's everything?",
+          "Anything exciting happening?",
+          "How have you been?",
+          "Got any plans for the weekend?",
+          "How's everything going on your end?",
+          "What have you been up to lately?",
+          "How's your week been so far?",
+          "What's been the highlight of your day?",
+          "Anything interesting happening in your life?",
+          "How's your day shaping up?",
+          "What's the latest news with you?",
+          "How are you feeling today?",
+          "Any plans for the upcoming week?",
+          "How's the weather treating you?"
+        ],
+        "responses": [
+          "I'm doing well, thank you! How about you?"
+        ]
+      },
+      {
+        "tag": "About Omaxe",
+        "patterns": [
+          "About Omaxe",
+          "About Omaxe Group",
+          "Who is Omaxe?",
+          "Tell me about Omaxe",
+          "What does Omaxe do?",
+          "History of Omaxe",
+          "What is Omaxe known for?",
+          "Background of Omaxe",
+          "Omaxe's founding story",
+          "What sets Omaxe apart?",
+          "Omaxe's mission and vision",
+          "Can you tell me more about Omaxe's projects?",
+          "What are some notable achievements of Omaxe?",
+          "How does Omaxe contribute to the real estate sector?",
+          "What regions does Omaxe operate in?",
+          "Can you elaborate on Omaxe's sustainability initiatives?",
+          "What is Omaxe's approach to customer service?",
+          "How does Omaxe ensure quality in its constructions?",
+          "Can you share some success stories of Omaxe's projects?",
+          "What sets Omaxe apart from other real estate developers?",
+          "How does Omaxe stay innovative in the industry?"
+        ],
+        "responses": [
+          "Omaxe Group, established in 1987 by visionary first-generation entrepreneur & civil engineer Mr. Rohtas Goel, has emerged as one of India's top real estate developers. With over 30 years of experience and a track record of delivering 12.01 million Sq.Mtr (129.25 million sq.ft.) of real estate and construction projects, Omaxe is renowned for its commitment to quality and customer satisfaction. Listed on both BSE and NSE since 2007, Omaxe is a trusted brand synonymous with excellence in the real estate sector."
+        ]
+      },
+      {
+        "tag": "Company Information",
+        "patterns": [
+          "Company Information",
+          "Overview - CIN number",
+          "Board of Directors and KMPs",
+          "COI, MOA & AOA and Prospectus",
+          "Share Price",
+          "What is Omaxe's CIN number?",
+          "Who are the Board of Directors at Omaxe?",
+          "Where can I find Omaxe's prospectus?",
+          "How is Omaxe's share price?",
+          "Where is Omaxe headquartered?",
+          "Can you provide an overview of Omaxe's financial performance?",
+          "How does Omaxe contribute to the local community?",
+          "What are some recent developments at Omaxe?",
+          "Can you explain Omaxe's organizational structure?",
+          "How does Omaxe prioritize sustainability in its operations?",
+          "What are Omaxe's future growth plans?",
+          "Can you share insights into Omaxe's corporate culture?",
+          "How does Omaxe handle customer feedback and complaints?",
+          "What are some key milestones in Omaxe's history?"
+        ],
+        "responses": [
+          "For comprehensive company information including its overview, CIN number, Board of Directors and Key Management Personnel (KMPs), Certificate of Incorporation (COI), Memorandum of Association (MOA), Articles of Association (AOA), Prospectus, and current share price, please visit our official website or contact our investor relations department."
+        ]
+      },
+      {
+        "tag": "Investor Disclosures",
+        "patterns": [
+          "Disclosures Under Regulation 46 of The SEBI (LODR) Regulations",
+          "Details of Business",
+          "Terms and Conditions of Appointment of Independent Directors",
+          "Composition of Committees of Board of Directors",
+          "Code of Conduct of Board of Directors and Senior Managerial Personnel",
+          "What are the SEBI (LODR) Regulations disclosures by Omaxe?",
+          "Can I know the details of Omaxe's business?",
+          "How are independent directors appointed at Omaxe?",
+          "What are the committees in Omaxe's Board of Directors?",
+          "Does Omaxe have a code of conduct for its board members?",
+          "Where can investors find Omaxe's annual reports?",
+          "How does Omaxe ensure transparency in financial reporting?",
+          "Can you explain Omaxe's dividend policy?",
+          "What are Omaxe's plans for investor relations in the future?",
+          "How does Omaxe communicate with its shareholders?",
+          "What are the key financial indicators investors should consider for Omaxe?",
+          "Can you provide an overview of Omaxe's risk management strategies?",
+          "How does Omaxe address regulatory changes affecting investors?",
+          "What are some upcoming events or announcements for investors?",
+          "How does Omaxe engage with institutional investors?"
+        ],
+        "responses": [
+          "Our commitment to transparency and compliance is reflected in our investor disclosures. These include details under Regulation 46 of the SEBI (LODR) Regulations, business specifics, terms and conditions of appointment of independent directors, composition of board committees, and code of conduct for board members and senior managerial personnel."
+        ]
+      },  
+      {
+        "tag": "Contact Details",
+        "patterns": [
+          "Contact Details",
+          "Registrar & Share Transfer Agent",
+          "Chief Financial Officer",
+          "Company Secretary & Nodal Officer",
+          "Registered Office and Corporate Office Address",
+          "How can I contact Omaxe?",
+          "Who is Omaxe's Registrar & Share Transfer Agent?",
+          "Who is the Chief Financial Officer at Omaxe?",
+          "Where is Omaxe's registered office located?",
+          "Can I have the address of Omaxe's corporate office?",
+          "What are the contact details for Omaxe?",
+          "Who should I contact for investor-related queries at Omaxe?",
+          "How do I get in touch with Omaxe's customer support?",
+          "Can you provide the contact information for Omaxe's legal team?",
+          "What is the best way to reach Omaxe's corporate office?",
+          "Who is responsible for handling shareholder inquiries at Omaxe?"
+        ],
+        "responses": [
+          "For any inquiries or assistance, please find below our contact details:\nRegistrar & Share Transfer Agent: [Name]\nChief Financial Officer: [Name]\nCompany Secretary & Nodal Officer: [Name]\nRegistered Office: [Address]\nCorporate Office: [Address]"
+        ]
+      },
+      {
+        "tag": "Financial Information",
+        "patterns": [
+          "Financial Information",
+          "Notice of Board Meeting",
+          "Financial Results",
+          "Annual Reports",
+          "Shareholding Pattern",
+          "Where can I find Omaxe's financial information?",
+          "When is the next board meeting of Omaxe?",
+          "How are Omaxe's financial results?",
+          "Can I access Omaxe's annual reports?",
+          "What is the shareholding pattern of Omaxe?",
+          "What is Omaxe's financial performance like?",
+          "Are there any upcoming financial announcements from Omaxe?",
+          "Can you provide insights into Omaxe's financial outlook?",
+          "How does Omaxe report its financial results?",
+          "Where can I find historical financial data for Omaxe?",
+          "What metrics should investors consider when analyzing Omaxe's financial health?"
+        ],
+        "responses": [
+          "Stay informed about our financial performance through our financial information, including notices of board meetings, financial results, annual reports, and shareholding patterns."
+        ]
+      },
+      {
+        "tag": "Other Disclosures Under SEBI Regulations",
+        "patterns": [
+          "Other Disclosures Under SEBI Regulations",
+          "Other Codes & Policies",
+          "Periodic Compliances",
+          "Disclosure of Reasons for Encumbrances",
+          "What are the other disclosures by Omaxe under SEBI regulations?",
+          "Does Omaxe have any other codes and policies?",
+          "How does Omaxe comply with periodic requirements?",
+          "What are the reasons for encumbrances disclosed by Omaxe?",
+          "Can I learn more about Omaxe's compliance standards?",
+          "What are the regulatory disclosures made by Omaxe?",
+          "Are there any specific policies Omaxe adheres to?",
+          "How does Omaxe ensure transparency in regulatory matters?",
+          "What are the consequences of non-compliance for Omaxe?",
+          "Does Omaxe publish reports on its regulatory activities?",
+          "How does Omaxe handle disclosures under SEBI regulations?"
+        ],
+        "responses": [
+          "In addition to mandated SEBI disclosures, we adhere to other codes, policies, and periodic compliances as required. Furthermore, we disclose reasons for encumbrances to ensure transparency and trust."
+        ]
+      },
+      {
+        "tag": "Dividend & IEPF Details",
+        "patterns": [
+          "Dividend & IEPF Details",
+          "Unpaid Dividend",
+          "IEPF",
+          "Procedure",
+          "What are the dividend details of Omaxe?",
+          "Is there any unpaid dividend with Omaxe?",
+          "Can I know about Omaxe's IEPF?",
+          "What is the procedure for claiming unpaid dividends from Omaxe?",
+          "How does Omaxe manage its dividend distributions?",
+          "Are there any upcoming dividend declarations from Omaxe?",
+          "What happens to unclaimed dividends at Omaxe?",
+          "Can IEPF details be accessed through Omaxe's website?",
+          "How are dividends processed for Omaxe shareholders?",
+          "Who oversees dividend-related matters at Omaxe?",
+          "Is there a timeline for claiming unpaid dividends from Omaxe?"
+        ],
+        "responses": [
+          "Our dividend and Investor Education and Protection Fund (IEPF) details, including procedures for claiming unpaid dividends, are available for your reference."
+        ]
+      },
+      {
+        "tag": "Quick Links",
+        "patterns": [
+          "Quick Links",
+          "Privacy Policy",
+          "Terms & Conditions",
+          "Disclaimer",
+          "Sitemap",
+          "What are the quick links provided by Omaxe?",
+          "Where can I find Omaxe's privacy policy?",
+          "What are Omaxe's terms & conditions?",
+          "Does Omaxe have a disclaimer?",
+          "How can I access Omaxe's sitemap?",
+          "Are there any important links on Omaxe's website?",
+          "What legal documents can I find in Omaxe's quick links?",
+          "Is there a specific section for policies on Omaxe's website?",
+          "Are there any updates to Omaxe's terms and conditions?",
+          "How often is Omaxe's sitemap updated?",
+          "Can I find FAQs in Omaxe's quick links?"
+        ],
+        "responses": [
+          "Explore our quick links for easy access to our privacy policy, terms & conditions, disclaimer, and sitemap. https://www.omaxe.com/"
+        ]
+      }
+    ] 
+}
+    

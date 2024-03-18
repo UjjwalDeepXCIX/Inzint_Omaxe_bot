@@ -1,0 +1,1044 @@
+{
+    "intents":
+     [   
+        {
+        "tag": "Greetings",
+        "patterns": [
+          "Hi",
+          "hi",
+          "Hello",
+          "Hey",
+          "Good morning",
+          "Good afternoon",
+          "Good evening",
+          "Hi there"
+        ],
+        "responses": [
+          "Hello! How can I assist you today?"
+        ]
+      },
+      {
+        "tag": "Casual Conversation",
+        "patterns": [
+          "How's it going?",
+          "What's up?",
+          "How are you?",
+          "What's new?",
+          "How's your day?",
+          "What are you up to?",
+          "How's everything?",
+          "Anything exciting happening?",
+          "How have you been?",
+          "Got any plans for the weekend?"
+        ],
+        "responses": [
+          "I'm doing well, thank you! How about you?"
+        ]
+      },
+      {
+        "tag": "About Omaxe",
+        "patterns": [
+          "About Omaxe",
+          "About Omaxe Group",
+          "Who is Omaxe?",
+          "Tell me about Omaxe",
+          "What does Omaxe do?",
+          "History of Omaxe",
+          "What is Omaxe known for?",
+          "Background of Omaxe",
+          "Omaxe's founding story",
+          "What sets Omaxe apart?",
+          "Omaxe's mission and vision"
+        ],
+        "responses": [
+          "Omaxe Group, established in 1987 by visionary first-generation entrepreneur & civil engineer Mr. Rohtas Goel, has emerged as one of India's top real estate developers. With over 30 years of experience and a track record of delivering 12.01 million Sq.Mtr (129.25 million sq.ft.) of real estate and construction projects, Omaxe is renowned for its commitment to quality and customer satisfaction. Listed on both BSE and NSE since 2007, Omaxe is a trusted brand synonymous with excellence in the real estate sector."
+        ]
+      },
+      {
+        "tag": "Company Information",
+        "patterns": [
+          "Company Information",
+          "Overview - CIN number",
+          "Board of Directors and KMPs",
+          "COI, MOA & AOA and Prospectus",
+          "Share Price",
+          "What is Omaxe's CIN number?",
+          "Who are the Board of Directors at Omaxe?",
+          "Where can I find Omaxe's prospectus?",
+          "How is Omaxe's share price?"
+        ],
+        "responses": [
+          "For comprehensive company information including its overview, CIN number, Board of Directors and Key Management Personnel (KMPs), Certificate of Incorporation (COI), Memorandum of Association (MOA), Articles of Association (AOA), Prospectus, and current share price, please visit our official website or contact our investor relations department."
+        ]
+      },
+      {
+        "tag": "Investor Disclosures",
+        "patterns": [
+          "Disclosures Under Regulation 46 of The SEBI (LODR) Regulations",
+          "Details of Business",
+          "Terms and Conditions of Appointment of Independent Directors",
+          "Composition of Committees of Board of Directors",
+          "Code of Conduct of Board of Directors and Senior Managerial Personnel",
+          "What are the SEBI (LODR) Regulations disclosures by Omaxe?",
+          "Can I know the details of Omaxe's business?",
+          "How are independent directors appointed at Omaxe?",
+          "What are the committees in Omaxe's Board of Directors?",
+          "Does Omaxe have a code of conduct for its board members?"
+        ],
+        "responses": [
+          "Our commitment to transparency and compliance is reflected in our investor disclosures. These include details under Regulation 46 of the SEBI (LODR) Regulations, business specifics, terms and conditions of appointment of independent directors, composition of board committees, and code of conduct for board members and senior managerial personnel."
+        ]
+      },
+      {
+        "tag": "Contact Details",
+        "patterns": [
+          "Contact Details",
+          "Registrar & Share Transfer Agent",
+          "Chief Financial Officer",
+          "Company Secretary & Nodal Officer",
+          "Registered Office and Corporate Office Address",
+          "How can I contact Omaxe?",
+          "Who is Omaxe's Registrar & Share Transfer Agent?",
+          "Who is the Chief Financial Officer at Omaxe?",
+          "Where is Omaxe's registered office located?",
+          "Can I have the address of Omaxe's corporate office?"
+        ],
+        "responses": [
+          "For any inquiries or assistance, please find below our contact details:\nRegistrar & Share Transfer Agent: [Name]\nChief Financial Officer: [Name]\nCompany Secretary & Nodal Officer: [Name]\nRegistered Office: [Address]\nCorporate Office: [Address]"
+        ]
+      },
+      {
+        "tag": "Financial Information",
+        "patterns": [
+          "Financial Information",
+          "Notice of Board Meeting",
+          "Financial Results",
+          "Annual Reports",
+          "Shareholding Pattern",
+          "Where can I find Omaxe's financial information?",
+          "When is the next board meeting of Omaxe?",
+          "How are Omaxe's financial results?",
+          "Can I access Omaxe's annual reports?",
+          "What is the shareholding pattern of Omaxe?"
+        ],
+        "responses": [
+          "Stay informed about our financial performance through our financial information, including notices of board meetings, financial results, annual reports, and shareholding patterns."
+        ]
+      },
+      {
+        "tag": "Other Disclosures Under SEBI Regulations",
+        "patterns": [
+          "Other Disclosures Under SEBI Regulations",
+          "Other Codes & Policies",
+          "Periodic Compliances",
+          "Disclosure of Reasons for Encumbrances",
+          "What are the other disclosures by Omaxe under SEBI regulations?",
+          "Does Omaxe have any other codes and policies?",
+          "How does Omaxe comply with periodic requirements?",
+          "What are the reasons for encumbrances disclosed by Omaxe?"
+        ],
+        "responses": [
+          "In addition to mandated SEBI disclosures, we adhere to other codes, policies, and periodic compliances as required. Furthermore, we disclose reasons for encumbrances to ensure transparency and trust."
+        ]
+      },
+      {
+        "tag": "Dividend & IEPF Details",
+        "patterns": [
+          "Dividend & IEPF Details",
+          "Unpaid Dividend",
+          "IEPF",
+          "Procedure",
+          "What are the dividend details of Omaxe?",
+          "Is there any unpaid dividend with Omaxe?",
+          "Can I know about Omaxe's IEPF?",
+          "What is the procedure for claiming unpaid dividends from Omaxe?"
+        ],
+        "responses": [
+          "Our dividend and Investor Education and Protection Fund (IEPF) details, including procedures for claiming unpaid dividends, are available for your reference."
+        ]
+      },
+      {
+        "tag": "Quick Links",
+        "patterns": [
+          "Quick Links",
+          "Privacy Policy",
+          "Terms & Conditions",
+          "Disclaimer",
+          "Sitemap",
+          "What are the quick links provided by Omaxe?",
+          "Where can I find Omaxe's privacy policy?",
+          "What are Omaxe's terms & conditions?",
+          "Does Omaxe have a disclaimer?",
+          "How can I access Omaxe's sitemap?"
+        ],
+        "responses": [
+          "Explore our quick links for easy access to our privacy policy, terms & conditions, disclaimer, and sitemap. https://www.omaxe.com/"
+        ]
+      },
+      {
+        "tag": "Residential Properties",
+        "patterns": [
+          "Residential Properties",
+          "Property In New Chandigarh",
+          "Property In Ludhiana",
+          "Property In Lucknow",
+          "Property In Prayagraj",
+          "What residential properties does Omaxe offer?",
+          "Can I know about Omaxe's properties in New Chandigarh?",
+          "What are the residential properties available in Ludhiana by Omaxe?",
+          "Tell me about Omaxe's residential properties in Lucknow.",
+          "What are the residential options in Prayagraj by Omaxe?"
+        ],
+        "responses": [
+          "Discover our residential properties in prime locations including New Chandigarh, Ludhiana, Lucknow, and Prayagraj."
+        ]
+      },
+      {
+        "tag": "Commercial Properties",
+        "patterns": [
+          "Commercial Properties",
+          "Commercial Properties In New Delhi",
+          "Commercial Properties In New Chandigarh",
+          "Commercial Properties In Ludhiana",
+          "Commercial Properties In Lucknow",
+          "What commercial properties does Omaxe offer?",
+          "Tell me about Omaxe's commercial properties in New Delhi.",
+          "What are the commercial properties available in New Chandigarh by Omaxe?",
+          "How about Omaxe's commercial properties in Ludhiana?",
+          "What commercial properties does Omaxe have in Lucknow?"
+        ],
+        "responses": [
+          "Explore our range of commercial properties in strategic locations such as New Delhi, New Chandigarh, Ludhiana, and Lucknow."
+        ]
+      },
+      {
+        "tag": "Career Opportunities",
+        "patterns": [
+          "Career Opportunities",
+          "Life At Omaxe",
+          "Current Opening",
+          "What career opportunities does Omaxe offer?",
+          "How is life at Omaxe?",
+          "Are there any current openings at Omaxe?"
+        ],
+        "responses": [
+          "Embark on a rewarding career with us. Learn about life at Omaxe and explore our current job openings."
+        ]
+      },
+      {
+        "tag": "Social Media Links",
+        "patterns": [
+          "Let’s go Social",
+          "Join as Business Associate",
+          "How can I connect with Omaxe on social media?",
+          "Are there opportunities to join Omaxe as a business associate?"
+        ],
+        "responses": [
+          "Stay connected with us on social media and explore opportunities to join us as a business associate. facebook - https://www.facebook.com/Omaxeltd/ , twitter -https://twitter.com/OmaxeLimited , Instagram - https://www.instagram.com/omaxeltd/"
+        ]
+      },
+      {
+        "tag": "Media Coverage",
+        "patterns": [
+          "Media Coverage",
+          "Press Releases",
+          "E-Coverages",
+          "Print Coverages",
+          "Events",
+          "Media Kit",
+          "Videos",
+          "Where can I find Omaxe's media coverage?",
+          "Are there any recent press releases by Omaxe?",
+          "What are the e-coverages about Omaxe?",
+          "Can I know about Omaxe's print coverages?",
+          "Are there any upcoming events by Omaxe?",
+          "What does Omaxe's media kit include?",
+          "Do you have any videos related to Omaxe?"
+        ],
+        "responses": [
+          "Catch up on our latest media coverage, including press releases, e-coverages, print coverages, events, media kit, and videos."
+        ]
+      },
+      {
+        "tag": "Omaxe Care",
+        "patterns": [
+          "Omaxe Care",
+          "How does Omaxe care for its customers?",
+          "What is Omaxe's approach towards customer care?",
+          "Can you help me?",
+          "I want help"
+        ],
+        "responses": [
+          "At Omaxe, we prioritize your care and satisfaction."
+        ]
+      }
+    ,
+       
+       
+        {
+          "tag": "New Chandigarh Properties",
+          "patterns": [
+            "What residential options are available in New Chandigarh?",
+            "Can you provide details about properties in New Chandigarh?",
+            "Tell me about housing options in New Chandigarh.",
+            "I'm interested in properties in New Chandigarh. What are my options?",
+            "What types of apartments are available in New Chandigarh?",
+            "Show me the available residential properties in New Chandigarh.",
+            "I'm looking for a place in New Chandigarh. What are my choices?",
+            "What are the housing possibilities in New Chandigarh?",
+            "Tell me about the real estate scene in New Chandigarh.",
+            "List the residential properties available in New Chandigarh."
+          ],
+          "responses": [
+            "The Lake: 1/2/3/4 BHK Apartments & Penthouses, Omaxe Plots: Developed Plots, Celestia Royal Premier: Stilt + 4, 3BHK Independent Floors, Omaxe Silver Birch: 3BHK, 4BHK, G+2 Independent Floor, Ambrosia: S+3 3BHK Independent Floor, Omaxe Mulberry Villas: G+1 Duplex, Celestia Royal: S+3 3/4 BHK Apartments, Celestia Grand: 3BHK Apartments, The Resort: 2BHK, 2BHK + Utility, 3BHK, Penthouses, Omaxe Cassia: 3BHK+SR, 4BHK+SR Apartments, Gardenia: 3 BHK, 3 BHK + Servant, 3 BHK + Servant + Store, Penthouse"
+          ]
+        },
+        {
+          "tag": "Ludhiana Properties",
+          "patterns": [
+            "What residential options are available in Ludhiana?",
+            "Can you provide details about properties in Ludhiana?",
+            "Tell me about housing options in Ludhiana.",
+            "I'm interested in properties in Ludhiana. What are my options?",
+            "What types of apartments are available in Ludhiana?",
+            "Show me the available residential properties in Ludhiana.",
+            "I'm looking for a place in Ludhiana. What are my choices?",
+            "What are the housing possibilities in Ludhiana?",
+            "Tell me about the real estate scene in Ludhiana.",
+            "List the residential properties available in Ludhiana."
+          ],
+          "responses": [
+            "Celestia Grand Premier: G+4 (Independent Floors), The Royal Meridian: 3BHK + SR +  Powder Room, 4BHK + SR + Powder Room Apartments & Penthouses, Rose Villa: 3/4 BHK Villa, Celestia Grand: 3BHK + Servant Room Apartment, Royal View Homes: 3BHK + Servant Room Apartments, Omaxe Royal View Executive: 3BHK + Servant Room + Store Room Apartment, Omaxe Royal Residency: 2/3 BHK, 3BHK + Utility, 3BHK + Servant Room, 4BHK + Servant Room Apartments & Penthouses, Royal View Premier: 3 BHK + Servant Room Independent Floors, Twin Tower: 1/2/3 BHK Apartments, Royal Signature: PENTHOUSE | 5 BHK | 5 BHK + AV ROOM"
+          ]
+        },
+        {
+          "tag": "Lucknow Properties",
+          "patterns": [
+            "What residential options are available in Lucknow?",
+            "Can you provide details about properties in Lucknow?",
+            "Tell me about housing options in Lucknow.",
+            "I'm interested in properties in Lucknow. What are my options?",
+            "What types of apartments are available in Lucknow?",
+            "Show me the available residential properties in Lucknow.",
+            "I'm looking for a place in Lucknow. What are my choices?",
+            "What are the housing possibilities in Lucknow?",
+            "Tell me about the real estate scene in Lucknow.",
+            "List the residential properties available in Lucknow."
+          ],
+          "responses": [
+            "The Legends: 4 BHK + Additional Space for Work from Home (Available with 2nd to 21st Floor units) + 2 Stores + Servant Room, The Resort: 3/4 BHK (with servant) + Penthouse, Omaxe Residency II: 2BHK, 3BHK, 3BHK + Servant Room Apartments, The Palace: 3BHK Apartment, Omaxe Heights: 3BHK, 3BHK + Servant Room Apartments & 4BHK Penthouses, Omaxe Residency: 2BHK & 3BHK Apartments, Omaxe Waterscapes: 3 BHK, 3 BHK+Servant, Omaxe City Lucknow: Plots and Villas, Grand Omaxe: 1BHK, 2BHK, 2BHK  + Study Room, 3BHK Apartments & Penthouses, Hazratganj Residency: 1BHK + Store, 2BHK + Store, 3BHK + Store Apartments & Penthouses"
+          ]
+        },
+        {
+          "tag": "Faridabad Properties",
+          "patterns": [
+            "What residential options are available in Faridabad?",
+            "Can you provide details about properties in Faridabad?",
+            "Tell me about housing options in Faridabad.",
+            "I'm interested in properties in Faridabad. What are my options?",
+            "What types of apartments are available in Faridabad?",
+            "Show me the available residential properties in Faridabad.",
+            "I'm looking for a place in Faridabad. What are my choices?",
+            "What are the housing possibilities in Faridabad?",
+            "Tell me about the real estate scene in Faridabad.",
+            "List the residential properties available in Faridabad."
+          ],
+          "responses": [
+            "The Forest Spa: 4BHK + Servent Room Apartment & Penthouses, Omaxe Hills II: 3BHK Apartments, Omaxe Hills: 2BHK & 3BHK + Servent Room Apartments, Omaxe Heights 4BHK: 4BHK + Servent Room Apartment & Penthouses, Omaxe New Heights: 2BHK & 3BHK Apartments, Royal Residency: 3BHK Apartments, Omaxe Heights 2 & 3 BHK: 2/3 BHK Apartments, Omaxe Spa Village: 3BHK, 3BHK+SR, 4BHK+SR & Penthouses, Omaxe City: Plot"
+          ]
+        },
+        {
+          "tag": "Bahadurgarh Properties",
+          "patterns": [
+            "What residential options are available in Bahadurgarh?",
+            "Can you provide details about properties in Bahadurgarh?",
+            "Tell me about housing options in Bahadurgarh.",
+            "I'm interested in properties in Bahadurgarh. What are my options?",
+            "What types of apartments are available in Bahadurgarh?",
+            "Show me the available residential properties in Bahadurgarh.",
+            "I'm looking for a place in Bahadurgarh. What are my choices?",
+            "What are the housing possibilities in Bahadurgarh?",
+            "Tell me about the real estate scene in Bahadurgarh.",
+            "List the residential properties available in Bahadurgarh."
+          ],
+          "responses": [
+            "Omaxe North Avenue II: 3BHK & 3BHK + Servent Room Apartments, Omaxe Royal Street: 3BHK Apartments, Omaxe Shubhangan: 1BHK, 2BHK, 3BHK & 4BHK Apartments, Omaxe North Avenue: 2BHK Apartment, Omaxe City Homes: 3BHK Apartments"
+          ]
+        },
+        {
+          "tag": "Vrindavan Properties",
+          "patterns": [
+            "What residential options are available in Vrindavan?",
+            "Can you provide details about properties in Vrindavan?",
+            "Tell me about housing options in Vrindavan.",
+            "I'm interested in properties in Vrindavan. What are my options?",
+            "What types of apartments are available in Vrindavan?",
+            "Show me the available residential properties in Vrindavan.",
+            "I'm looking for a place in Vrindavan. What are my choices?",
+            "What are the housing possibilities in Vrindavan?",
+            "Tell me about the real estate scene in Vrindavan.",
+            "List the residential properties available in Vrindavan."
+          ],
+          "responses": [
+            "Krishna Crest: Service Apartments, Omaxe Full Moon: 1BHK+Study, 2BHK+Study & 3BHK, Omaxe Eternity: 2 BHK, & Studio Apartments, Krishna Castle: Studio Apartments, 1- Bed Room"
+          ]
+        },
+        {
+          "tag": "Gurugram Properties",
+          "patterns": [
+            "What residential options are available in Gurugram?",
+            "Can you provide details about properties in Gurugram?",
+            "Tell me about housing options in Gurugram.",
+            "I'm interested in properties in Gurugram. What are my options?",
+            "What types of apartments are available in Gurugram?",
+            "Show me the available residential properties in Gurugram.",
+            "I'm looking for a place in Gurugram. What are my choices?",
+            "What are the housing possibilities in Gurugram?",
+            "Tell me about the real estate scene in Gurugram.",
+            "List the residential properties available in Gurugram."
+          ],
+          "responses": [
+            "Mayfield Garden Designer Villas: Villas, Independent floor, Omaxe Olive Apartments I & II: 3 BHK Apartments, Suncity Executive Floors: Independent Floors, South Avenue Executive Floors: 3 BHK Flats & Luxury Apartments, Sushant Lok II Executive Floors: Independent 3BHK Floors, Omaxe The Nile: Multistorey Apartments - 3BHK,4BHK Appartments"
+          ]
+        },
+        {
+          "tag": "Noida Properties",
+          "patterns": [
+            "What residential options are available in Noida?",
+            "Can you provide details about properties in Noida?",
+            "Tell me about housing options in Noida.",
+            "I'm interested in properties in Noida. What are my options?",
+            "What types of apartments are available in Noida?",
+            "Show me the available residential properties in Noida.",
+            "I'm looking for a place in Noida. What are my choices?",
+            "What are the housing possibilities in Noida?",
+            "Tell me about the real estate scene in Noida.",
+            "List the residential properties available in Noida."
+          ],
+          "responses": [
+            "Omaxe Royal Residency: 3/4 BHK Apartments, Omaxe Twin Towers: 3/4BHK Apartments, Grand Omaxe: 2BHK, 3BHK & 3BHK+SR, The Forest Spa: 3/4BHK Apartments, The Forest: 4-BHK, 5-BHK & Penthouses"
+          ]
+        },
+        {
+          "tag": "Greater Noida Properties",
+          "patterns": [
+            "What residential options are available in Greater Noida?",
+            "Can you provide details about properties in Greater Noida?",
+            "Tell me about housing options in Greater Noida.",
+            "I'm interested in properties in Greater Noida. What are my options?",
+            "What types of apartments are available in Greater Noida?",
+            "Show me the available residential properties in Greater Noida.",
+            "I'm looking for a place in Greater Noida. What are my choices?",
+            "What are the housing possibilities in Greater Noida?",
+            "Tell me about the real estate scene in Greater Noida.",
+            "List the residential properties available in Greater Noida."
+          ],
+          "responses": [
+            "Omaxe Palm Greens: 2BHK, 3BHK, 3BHK+servant room, 4BHK+servant room, Orchid Avenue: 2BHK & 3BHK Apartments, Omaxe Palm Villas: 2BHK, 3BHK, 3BHK+SR & 4BHK+SR"
+          ]
+        },
+       
+      
+           
+      
+       {
+          "tag": "SEBI Disclosures",
+          "patterns": [
+             "Disclosures Under Regulation 46 of The SEBI (LODR) Regulations",
+             "SEBI Disclosures"
+          ],
+          "responses": [
+             "We comply with SEBI regulations, including disclosures under Regulation 46 of The SEBI (LODR) Regulations."
+          ]
+       },
+       {
+          "tag": "Media Coverage",
+          "patterns": [
+             "Details of Media Agreements",
+             "Newspaper Publications under Reg. 47(1)"
+          ],
+          "responses": [
+             "Find details of our media agreements and newspaper publications under Reg. 47(1) for comprehensive media coverage."
+          ]
+       },
+       {
+          "tag": "Event Outcome",
+          "patterns": [
+             "Outcome of Board Meetings",
+             "Change in Directors, KMP, Auditor and Compliance Officer",
+             "AGM/EGM & Postal Ballot",
+             "Other Disclosures"
+          ],
+          "responses": [
+             "Stay updated on the outcome of board meetings, changes in directors, KMPs, auditors, and compliance officers, as well as AGM/EGM & postal ballot results and other disclosures."
+          ]
+       },
+       {
+          "tag": "Grievance Redressal",
+          "patterns": [
+             "Email address for grievance redressal and other relevant details",
+             "Contact information of the designated officials w.r.t. investor grievances"
+          ],
+          "responses": [
+             "For grievance redressal or any investor-related concerns, reach out to us via email or contact our designated officials."
+          ]
+       },
+       {
+          "tag": "Policy Details",
+          "patterns": [
+             "Vigil Mechanism/ Whistle Blower Policy",
+             "Criteria of making payments to Non-Executive Directors",
+             "Policy on dealing with related party transactions",
+             "Policy for determining material subsidiaries",
+             "Policy for determination of materiality of events under Reg. 30(4)",
+             "Dividend Distribution Policy"
+          ],
+          "responses": [
+             "Learn about our policies, including the vigil mechanism/whistleblower policy, criteria for payments to non-executive directors, policies on related party transactions and material subsidiaries, and dividend distribution policy."
+          ]
+       },
+       {
+        "tag": "About Mr. Rohtas Goel",
+        "patterns": [
+          "Who is Mr. Rohtas Goel?",
+          "Tell me about the director of Omaxe.",
+          "What is Mr. Rohtas Goel's role in Omaxe?",
+          "Can you provide information about the founder of Omaxe?",
+          "I want to know more about the founder of Omaxe."
+        ],
+        "responses": [
+          "Mr. Rohtas Goel, Founding Chairman and Non-Executive Director of Omaxe Ltd., is a leading name in the real estate industry. He laid the foundation of Omaxe Ltd almost three decades ago and has since worked his way to the higher echelons of success and glory."
+        ]
+    },
+       {
+          "tag": "Additional Documents",
+          "patterns": [
+             "COI, MOA & AOA and Prospectus",
+             "Notice of Board Meeting",
+             "Financial Results",
+             "Annual Reports",
+             "Audited Financial Statements of Subsidiary Companies",
+             "Annual Secretarial Compliance Report"
+          ],
+          "responses": [
+             "Access additional documents such as Certificate of Incorporation (COI), Memorandum of Association (MOA), Articles of Association (AOA), Prospectus, notice of board meetings, financial results, annual reports, audited financial statements of subsidiary companies, and annual secretarial compliance reports."
+          ]
+       }
+       ,
+       {
+
+        
+        
+            "tag": "ALLOTTE_definition",
+            "patterns": [
+              "What is the meaning of 'ALLOTTE' in real estate projects?",
+              "Define 'ALLOTTE' as per the Real Estate (Regulation & Development) Act, 2016.",
+              "Who is considered as an 'ALLOTTE' in the context of real estate?"
+            ],
+            "responses": [
+              "'ALLOTTE' in relation to a real estate project means the person to whom a plot, apartment, or building has been allotted, sold, or otherwise transferred by the promoter. It includes the person who subsequently acquires the allotment through sale, transfer, or otherwise, excluding those given on rent."
+            ]
+          },
+          {
+            "tag": "Carpet_area_definition",
+            "patterns": [
+              "What does 'Carpet area' mean in the context of real estate?",
+              "Define 'Carpet area' as per the Real Estate (Regulation & Development) Act, 2016.",
+              "Explain the concept of 'Carpet area' in apartment measurement."
+            ],
+            "responses": [
+              "'Carpet area' refers to the net usable floor area of an apartment, excluding external walls, areas under services shafts, exclusive balcony or verandah area, and exclusive open terrace area. It includes the area covered by the internal partition walls of the apartment."
+            ]
+          },
+          {
+            "tag": "exclusive_balcony_verandah_area_definition",
+            "patterns": [
+              "What is the meaning of 'exclusive balcony or verandah area'?",
+              "Define 'exclusive balcony or verandah area' in real estate terms.",
+              "Explain the concept of 'exclusive balcony or verandah area.'"
+            ],
+            "responses": [
+              "For the purpose of this clause, 'exclusive balcony or verandah area' refers to the area of the balcony or verandah, as the case may be, which is appurtenant to the net usable floor area of an apartment. It is meant for the exclusive use of the allottee."
+            ]
+          },
+          {
+            "tag": "exclusive_open_terrace_area_definition",
+            "patterns": [
+              "What is the meaning of 'exclusive open terrace area'?",
+              "Define 'exclusive open terrace area' as per the Real Estate (Regulation & Development) Act, 2016.",
+              "Explain the concept of 'exclusive open terrace area' in real estate projects."
+            ],
+            "responses": [
+              "'Exclusive open terrace area' means the area of the open terrace which is appurtenant to the net usable floor area of an apartment. It is meant for the exclusive use of the allottee."
+            ]
+          },
+          {
+            "tag": "common_area_definition",
+            "patterns": [
+              "What is the meaning of 'Common Area'?",
+              "Define 'Common Area' in the context of a real estate project.",
+              "Explain the concept of 'Common Area' as per the Real Estate (Regulation & Development) Act, 2016."
+            ],
+            "responses": "For the purpose of this clause, 'Common Area' refers to (i) the entire land for the real estate project or, in the case where the project is developed in phases and registration under this Act is sought for a phase, the entire land for that phase."
+          },
+          {
+            "tag": "common_area_additional_definition",
+            "patterns": [
+              "What does 'Common Area' include in terms of staircases, lifts, and building entrances?",
+              "Define the components of 'Common Area' as per clause (ii).",
+              "Explain the inclusions under 'Common Area' related to staircases, lifts, and building entrances."
+            ],
+            "responses": "For the purpose of this clause, 'Common Area' includes (ii) the staircases, lifts, staircase and lift lobbies, fire escapes, and common entrances and exits of buildings."
+          },
+          {
+            "tag": "common_area_basements_parks_definition",
+            "patterns": [
+              "What is included in 'Common Area' in terms of basements, terraces, parks, and play areas?",
+              "Define the components of 'Common Area' as per clause (iii).",
+              "Explain the inclusions under 'Common Area' related to basements, terraces, parks, and play areas."
+            ],
+            "responses": "For the purpose of this clause, 'Common Area' includes (iii) the common basements, terraces, parks, play areas, open parking areas, and common storage spaces."
+          },
+          {
+            "tag": "common_area_premises_for_lodging_definition",
+            "patterns": [
+              "What is considered part of 'Common Area' regarding premises for lodging?",
+              "Define the components of 'Common Area' as per clause (iv).",
+              "Explain the inclusions under 'Common Area' related to premises for lodging."
+            ],
+            "responses": "For the purpose of this clause, 'Common Area' includes (iv) the premises for the lodging of persons employed for the management of the property, including accommodation for watch and ward staffs or for the lodging of community service personnel."
+          },
+          {
+            "tag": "common_area_central_services_definition",
+            "patterns": [
+              "What installations are part of 'Common Area' under central services?",
+              "Define the components of 'Common Area' as per clause (v).",
+              "Explain the inclusions under 'Common Area' related to installations of central services."
+            ],
+            "responses": "For the purpose of this clause, 'Common Area' includes (v) installations of central services such as electricity, gas, water and sanitation, air-conditioning and incinerating, systems for water conservation, and renewable energy."
+          },
+          {
+            "tag": "common_area_water_tanks_definition",
+            "patterns": [
+              "What is included in 'Common Area' regarding water tanks, motors, and ducts?",
+              "Define the components of 'Common Area' as per clause (vi).",
+              "Explain the inclusions under 'Common Area' related to water tanks, motors, fans, compressors, ducts, and all apparatus connected with installations for common use."
+            ],
+            "responses": "For the purpose of this clause, 'Common Area' includes (vi) the water tanks, sumps, motors, fans, compressors, ducts, and all apparatus connected with installations for common use."
+          },
+          {
+            "tag": "common_area_community_commercial_facilities_definition",
+            "patterns": [
+              "What facilities are considered part of 'Common Area' under community and commercial aspects?",
+              "Define the components of 'Common Area' as per clause (vii).",
+              "Explain the inclusions under 'Common Area' related to community and commercial facilities."
+            ],
+            "responses": "For the purpose of this clause, 'Common Area' includes (vii) all community and commercial facilities as provided in the real estate project."
+          },
+          {
+            "tag": "common_area_other_portion_definition",
+            "patterns": [
+              "What does 'Common Area' encompass in terms of other project portions for maintenance and safety?",
+              "Define the components of 'Common Area' as per clause (viii).",
+              "Explain the inclusions under 'Common Area' related to other portions necessary or convenient for maintenance, safety, etc."
+            ],
+            "responses": "For the purpose of this clause, 'Common Area' includes (viii) all other portions of the project necessary or convenient for its maintenance, safety, etc., and in common use."
+          },
+          {
+            "tag": "external_development_works_definition",
+            "patterns": [
+              "What is included in 'External Development works'?",
+              "Define 'External Development works' as per the Real Estate (Regulation & Development) Act, 2016.",
+              "Explain the components of 'External Development works' in a real estate project."
+            ],
+            "responses": "'External Development works' includes roads and road systems, landscaping, water supply, sewerage and drainage systems, electricity supply transformer, sub-station, solid waste management and disposal, or any other work which may have to be executed in the periphery of, or outside, a project for its benefit, as may be provided under the local laws."
+          },
+          {
+            "tag": "promoter_definition",
+            "patterns": [
+              "Who is considered a 'Promoter' in the context of real estate projects?",
+              "Define 'Promoter' as per the Real Estate (Regulation & Development) Act, 2016.",
+              "Explain the concept of 'Promoter' in relation to real estate."
+            ],
+            "responses": "'Promoter' means a person who constructs or causes to be constructed an independent building or a building consisting of apartments, or converts an existing building or a part thereof into apartments, for the purpose of selling all or some of the apartments to other persons and includes his assignees."
+          },
+          {
+            "tag": "real_estate_project_definition",
+            "patterns": [
+              "What is the meaning of 'Real Estate Project'?",
+              "Define 'Real Estate Project' as per the Real Estate (Regulation & Development) Act, 2016.",
+              "Explain the concept of 'Real Estate Project' in the context of real estate."
+            ],
+            "responses": "'Real Estate Project' means the development of a building or a building consisting of apartments, or converting an existing building or a part thereof into apartments, or the development of land into plots or apartments, as the case may be, for the purpose of selling all or some of the said apartments or plots or building, as the case may be, and includes the common areas, the development works, all improvements, structures, and other things of the project necessary or convenient for its maintenance, safety, and sanitation."
+          },
+          {
+            "tag": "real_estate_regulatory_authority_definition",
+            "patterns": [
+              "What is the meaning of 'Real Estate Regulatory Authority'?",
+              "Define 'Real Estate Regulatory Authority' as per the Real Estate (Regulation & Development) Act, 2016.",
+              "Explain the concept of 'Real Estate Regulatory Authority' in the context of real estate."
+            ],
+            "responses": "'Real Estate Regulatory Authority' means the authority established under sub-section (1) of section 20."
+          },
+          {
+            "tag": "real_estate_regulatory_authority_additional_definition",
+            "patterns": [
+              "What is the role of the 'Real Estate Regulatory Authority'?",
+              "Explain the functions of the 'Real Estate Regulatory Authority' as per the Act.",
+              "What are the responsibilities of the 'Real Estate Regulatory Authority'?"
+            ],
+            "responses": "The Real Estate Regulatory Authority shall perform the functions and exercise the powers conferred on it by or under this Act."
+          },
+          {
+            "tag": "internal_development_works_definition",
+            "patterns": [
+              "What is meant by 'Internal development works'?",
+              "Define 'Internal development works' in real estate terms.",
+              "Explain the concept of 'Internal development works' as per the Real Estate (Regulation & Development) Act, 2016."
+            ],
+            "responses": "'Internal development works' means roads, footpaths, water supply, sewers, drains, parks, tree planting, street lighting, provision for community buildings and for treatment and disposal of sewage and sullage water, solid waste management and disposal, water conservation, energy management, fire protection, and fire safety requirements, social infrastructure such as educational health and other public amenities, or any other work in a project for its benefit, as per sanctioned plans."
+          },
+          {
+            "tag": "common_area_other_portion_definition",
+            "patterns": [
+              "What does 'Common Area' encompass in terms of other project portions for maintenance and safety?",
+              "Define the components of 'Common Area' as per clause (viii).",
+              "Explain the inclusions under 'Common Area' related to other portions necessary or convenient for maintenance, safety, etc."
+            ],
+            "responses": "For the purpose of this clause, 'Common Area' includes (viii) all other portions of the project necessary or convenient for its maintenance, safety, etc., and in common use."
+          },
+          {
+            "tag": "common_area_basements_parks_definition",
+            "patterns": [
+              "What is included in 'Common Area' in terms of basements, terraces, parks, and play areas?",
+              "Define the components of 'Common Area' as per clause (iii).",
+              "Explain the inclusions under 'Common Area' related to basements, terraces, parks, and play areas."
+            ],
+            "responses": "For the purpose of this clause, 'Common Area' includes (iii) the common basements, terraces, parks, play areas, open parking areas, and common storage spaces."
+          },
+          {
+            "tag": "BSP_definition",
+            "patterns": [
+              "What does 'BSP' stand for?",
+              "Define 'BSP' as per real estate terminology.",
+              "Explain the concept of 'BSP' in property transactions."
+            ],
+            "responses": "'BSP' stands for Basic Sale Price."
+          },
+          {
+            "tag": "PLC_definition",
+            "patterns": [
+              "What is the meaning of 'PLC' in real estate?",
+              "Define 'PLC' as per property transactions.",
+              "Explain the concept of 'PLC' and its significance in real estate pricing."
+            ],
+            "responses": "'PLC' refers to Preferential Location Charges."
+          },
+          {
+            "tag": "DP_definition",
+            "patterns": [
+              "What does 'DP' represent in real estate terms?",
+              "Define 'DP' as per property transactions.",
+              "Explain the concept of 'DP' and its role in real estate payment plans."
+            ],
+            "responses": "'DP' stands for Down Payment Plan."
+          },
+          {
+            "tag": "CLP_definition",
+            "patterns": [
+              "What is the meaning of 'CLP' in real estate payment plans?",
+              "Define 'CLP' as per property transactions.",
+              "Explain the concept of 'CLP' and its application in real estate transactions."
+            ],
+            "responses": "'CLP' represents Construction Linked Plan."
+          },
+          {
+            "tag": "TLP_definition",
+            "patterns": [
+              "What does 'TLP' signify in real estate transactions?",
+              "Define 'TLP' as per property dealings.",
+              "Explain the concept of 'TLP' and its relevance in real estate payment structures."
+            ],
+            "responses": "'TLP' stands for Time Linked Plan."
+          },
+          {
+            "tag": "documents_required_definition",
+            "patterns": [
+              "What documents are typically required in real estate transactions?",
+              "List the documents required in property dealings.",
+              "Explain the necessary documents for real estate transactions."
+            ],
+            "responses": "Documents required in real estate transactions vary but commonly include proof of identity, residence, income, property details, and legal clearances."
+          },
+        
+          {
+            "tag": "documents_required_salaried",
+            "patterns": [
+              "What documents are required for processing a home loan for salaried customers?",
+              "List of documents needed for home loan processing for salaried individuals."
+            ],
+            "responses": "Application form with photograph duly signed by all applicants, Identity, Residence, and age proof, PAN Card copy of the main applicant, Last three months Salary Slip, Education qualification certificate and proof of business existence, Last three years income tax returns with income computation, Last three years CA-certified/audited balance sheet and profit & loss account, Form 16/Income Tax Returns, Last six months bank statements, Processing fee Cheque"
+          },
+          {
+            "tag": "documents_required_self_employed_professionals",
+            "patterns": [
+              "What documents are required for processing a home loan for self-employed professionals?",
+              "List of documents needed for home loan processing for self-employed professionals."
+            ],
+            "responses": "Application form with photograph duly signed by all applicants, Identity, Residence, and age proof, PAN Card copy of the main applicant, Last three months Salary Slip, Education qualification certificate and proof of business existence, Last three years income tax returns with income computation, Last three years CA-certified/audited balance sheet and profit & loss account, Form 16/Income Tax Returns, Last six months bank statements, Processing fee Cheque"
+          },
+          {
+            "tag": "documents_required_self_employed_non_professionals",
+            "patterns": [
+              "What documents are required for processing a home loan for self-employed non-professionals?",
+              "List of documents needed for home loan processing for self-employed non-professionals."
+            ],
+            "responses": "Application form with photograph duly signed by all applicants, Identity, Residence, and age proof, PAN Card copy of the main applicant, Proof of business existence, Business Profile, Last three years income tax returns with income computation, Last three years CA-certified/audited balance sheet and profit & loss account, Last six months bank statements (Self and Business), Processing fee Cheque"
+          },
+          {
+            "tag": "documents_required_salaried_nris",
+            "patterns": [
+              "What documents are required for processing a home loan for salaried NRIs?",
+              "List of documents needed for home loan processing for salaried NRIs."
+            ],
+            "responses": "Application form with photograph duly signed by all applicants, Copy of valid passport showing visa stamps, Copy of valid visa/work/permit/equivalent document, Supporting NRI Status of the Proposed account holder"
+          },
+        
+          {
+            "tag": "documents_required_change_address_individual",
+            "patterns": [
+              "What documents are required for a change of correspondence address for individuals?",
+              "List of documents needed for changing correspondence address for individuals."
+            ],
+            "responses": "Request Letter duly signed by Applicant(s) / Email/ Portal Request, Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill/Ration Card/Aadhar Card, Self Attested copy of ID proof (Mandatory)"
+          },
+          {
+            "tag": "documents_required_change_address_proprietorship_firm",
+            "patterns": [
+              "What documents are required for a change of correspondence address for proprietorship firms?",
+              "List of documents needed for changing correspondence address for proprietorship firms."
+            ],
+            "responses": "Request Letter duly signed from Customer (Proprietor), Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of Company Pan Card"
+          },
+          {
+            "tag": "documents_required_change_address_huf",
+            "patterns": [
+              "What documents are required for a change of correspondence address for Hindu undivided families (HUF)?",
+              "List of documents needed for changing correspondence address for HUFs."
+            ],
+            "responses": "Request Letter duly signed from Customer (KARTA), Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of ID proof (Mandatory)"
+          },
+          {
+            "tag": "documents_required_change_address_partnership_firm",
+            "patterns": [
+              "What documents are required for a change of correspondence address for partnership firms?",
+              "List of documents needed for changing correspondence address for partnership firms."
+            ],
+            "responses": "Request Letter duly signed by Authorized Partner, Self Attested Address Proof e.g. Govt. Documents which mention Address, Revised Partnership Deed"
+          },
+          {
+            "tag": "documents_required_change_address_company",
+            "patterns": [
+              "What documents are needed for a company's change of correspondence address?",
+              "List the required documents for changing a company's correspondence address.",
+              "What paperwork is necessary when a company changes its address?"
+            ],
+            "responses": "Request Letter from Company duly signed by Authorized Signatory, Form 18 & ROC FEE Receipt, Copy of Board Resolution, Intimation Letter from Company about the Change in Address, Additional necessary documents: - In case of change of address outside the local limits but within the state - copy of special resolution and form 23 is also required. - In case of change of address outside the state - copy of special resolution, form 23, copy of confirmation by Company Law Board(CLB), copy of notice in daily newspaper (regional language and English) is also required."
+          },
+          {
+            "tag": "documents_required_change_address_partnership_firm",
+            "patterns": [
+              "What documents are required for a partnership firm's change of correspondence address?",
+              "List the necessary documents for changing a partnership firm's correspondence address.",
+              "What paperwork is needed when a partnership firm changes its address?"
+            ],
+            "responses": "Request Letter duly signed by Authorized Partner, Self Attested Address Proof e.g. Govt. Documents which mention Address, Revised Partnership Deed"
+          },
+          {
+            "tag": "documents_required_change_address_individual",
+            "patterns": [
+              "What documents are needed for an individual's change of correspondence address?",
+              "List the required documents for changing an individual's correspondence address.",
+              "What paperwork is necessary when an individual changes their address?"
+            ],
+            "responses": "Request Letter duly signed by Applicant(s) / Email/ Portal Request, Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill/Ration Card/Aadhar Card, Self Attested copy of ID proof (Mandatory)"
+          },
+          {
+            "tag": "documents_required_change_permanent_address_individual",
+            "patterns": [
+              "What documents are needed for a change of permanent address for individuals before the execution of an agreement?",
+              "List the necessary documents for changing an individual's permanent address before agreement execution.",
+              "What paperwork is needed when an individual changes their permanent address prior to agreement execution?"
+            ],
+            "responses": "Request Letter duly signed by Applicant(s)/, E mail/Portal Request, Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of Company Pan Card"
+          },
+          {
+            "tag": "documents_required_change_permanent_address_proprietorship_firm",
+            "patterns": [
+              "What documents are required for a change of permanent address for proprietorship firms before the execution of an agreement?",
+              "List the necessary documents for changing a proprietorship firm's permanent address before agreement execution.",
+              "What paperwork is needed when a proprietorship firm changes its permanent address prior to agreement execution?"
+            ],
+            "responses": "Request Letter duly signed from Customer (Proprietor), Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of Company Pan Card"
+          },
+          {
+            "tag": "documents_required_change_permanent_address_huf",
+            "patterns": [
+              "What documents are required for a change of permanent address for Hindu undivided families (HUF) before the execution of an agreement?",
+              "List the necessary documents for changing an HUF's permanent address before agreement execution.",
+              "What paperwork is needed when an HUF changes its permanent address prior to agreement execution?"
+            ],
+            "responses": "Request Letter duly signed from Customer (KARTA), Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of Company Pan Card"
+          },
+          {
+            "tag": "documents_required_change_permanent_address_partnership_firm",
+            "patterns": [
+              "What documents are required for a change of permanent address for partnership firms before the execution of an agreement?",
+              "List the necessary documents for changing a partnership firm's permanent address before agreement execution.",
+              "What paperwork is needed when a partnership firm changes its permanent address prior to agreement execution?"
+            ],
+            "responses": "Request Letter duly signed by authorized Partners, Self Attested Address Proof e.g. Govt. Documents which mention Address, Revised Partnership Deed"
+          },
+          {
+            "tag": "documents_required_change_permanent_address_company",
+            "patterns": [
+              "What documents are required for a change of permanent address for companies before the execution of an agreement?",
+              "List the necessary documents for changing a company's permanent address before agreement execution.",
+              "What paperwork is needed when a company changes its permanent address prior to agreement execution?"
+            ],
+            "responses": "Request Letter from Company duly signed by Authorized Signatory, Form 18 & ROC FEE Receipt, Copy of Board Resolution, Intimation Letter from Company about the Change in Address, Additional necessary documents: - In case of change of address outside the local limits but within the state - copy of special resolution and form 23 is also required. - In case of change of address outside the state - copy of special resolution, form 23, copy of confirmation by Company Law Board(CLB), copy of notice in daily newspaper (regional language and English) is also required."
+          },
+          {
+            "tag": "documents_required_change_permanent_address_additional",
+            "patterns": [
+              "What additional documents may be required for changing a permanent address before the execution of an agreement?",
+              "List any extra paperwork needed for a change of permanent address before agreement execution.",
+              "Are there any supplementary documents required when changing a permanent address prior to agreement execution?"
+            ],
+            "responses": "In case of change of address outside the local limits but within the state - copy of special resolution and form 23 is also required. In case of change of address outside the state - copy of special resolution, form 23, copy of confirmation by Company Law Board(CLB), copy of notice in daily newspaper (regional language and English) is also required."
+          },
+          {
+            "tag": "documents_required_change_permanent_address_general",
+            "patterns": [
+              "What are the general documents required for a change of permanent address before the execution of an agreement?",
+              "List the standard paperwork needed for changing a permanent address before agreement execution.",
+              "What documents are commonly required when changing a permanent address prior to agreement execution?"
+            ],
+            "responses": "Request Letter duly signed, Self attested Copy of Address proof i.e. electricity/water/telephone/mobile bill, Self Attested copy of Company Pan Card (if applicable)"
+          },
+          {
+            "tag": "documents_required_change_permanent_address_comparison",
+            "patterns": [
+              "How do the documents required for a change of permanent address compare across different entities?",
+              "Compare the necessary paperwork for changing permanent addresses for various entities before agreement execution.",
+              "What are the differences in document requirements for changing permanent addresses among individuals, firms, and companies?"
+            ],
+            "responses": "The required documents vary based on the entity type. Individuals need a signed request letter, address proof, and ID proof. Firms and companies have additional requirements, such as partnership deeds, board resolutions, and company-related documents."
+          },
+          {
+            "tag": "documents_required_correction_name_individual",
+            "patterns": [
+              "What documents are needed for the correction of name (spelling) for individuals before the execution of an agreement?",
+              "List the necessary documents for correcting an individual's name (spelling) before agreement execution.",
+              "What paperwork is needed when an individual corrects their name (spelling) prior to agreement execution?"
+            ],
+            "responses": "Request Letter duly Signed by applicant(s), Self Attested Copy of Voter ID Card, Self Attested Copy of PAN Card"
+          },
+          {
+            "tag": "documents_required_correction_name_proprietorship_firm",
+            "patterns": [
+              "What documents are required for the correction of name (spelling) for proprietorship firms before the execution of an agreement?",
+              "List the necessary documents for correcting a proprietorship firm's name (spelling) before agreement execution.",
+              "What paperwork is needed when a proprietorship firm corrects its name (spelling) prior to agreement execution?"
+            ],
+            "responses": "Request Letter duly Signed by Proprietor, Self Attested Copy of Voter ID Card, Self Attested Copy of PAN Card"
+          },
+          {
+            "tag": "documents_required_correction_name_huf",
+            "patterns": [
+              "What documents are required for the correction of name (spelling) for Hindu undivided families (HUF) before the execution of an agreement?",
+              "List the necessary documents for correcting an HUF's name (spelling) before agreement execution.",
+              "What paperwork is needed when an HUF corrects its name (spelling) prior to agreement execution?"
+            ],
+            "responses": "Request Letter duly Signed by KARTA, Self Attested Copy of Voter ID Card, Self Attested Copy of PAN Card both of KARTA & HUF"
+          },
+          {
+            "tag": "documents_required_correction_name_partnership_firm",
+            "patterns": [
+              "What documents are required for the correction of name (spelling) for partnership firms before the execution of an agreement?",
+              "List the necessary documents for correcting a partnership firm's name (spelling) before agreement execution.",
+              "What paperwork is needed when a partnership firm corrects its name (spelling) prior to agreement execution?"
+            ],
+            "responses": "Request Letter duly Signed by Authorized Partner, Self Attested Copy of PAN Card, Revised Partnership Deed"
+          },
+          {
+            "tag": "documents_required_correction_name_company",
+            "patterns": [
+              "What documents are required for the correction of name (spelling) for companies before the execution of an agreement?",
+              "List the necessary documents for correcting a company's name (spelling) before agreement execution.",
+              "What paperwork is needed when a company corrects its name (spelling) prior to agreement execution?"
+            ],
+            "responses": "Request Letter from Company duly signed by Authorized Signatory, Copy of Board Resolution, Self Attested Copy of INCORPORATION Certificate, Self Attested Copy of PAN Card"
+          },
+          {
+            "tag": "documents_required_correction_name_general",
+            "patterns": [
+              "What documents are needed for the correction of name (spelling) before the execution of an agreement?",
+              "List the necessary documents for correcting a name (spelling) before agreement execution.",
+              "What paperwork is needed when correcting a name (spelling) prior to agreement execution?"
+            ],
+            "responses": "Request Letter duly Signed by the concerned party, Relevant self-attested identification documents (e.g., Voter ID Card, PAN Card), Additional documents specific to the entity type (e.g., Revised Partnership Deed for partnership firms, Copy of INCORPORATION Certificate for companies)"
+          },
+          
+          {
+            "tag": "documents_required_booking_property_individual",
+            "patterns": [
+              "What documents are required for booking a property as an individual?",
+              "List the necessary documents for property booking as an individual.",
+              "What paperwork is needed when booking a property as an individual?"
+            ],
+            "responses": "Booking Application Form duly signed on every page by all applicants, Colored Photograph of all applicants, Signature on Agreed/Accepted Payment Plan, Self-attested Copy of PAN, Self-attested Copy of ID proof (Voter ID/PAN/Ration Card/Driving License/Passport), Self-attested Copy of Address proof (electricity/water/telephone/mobile bill), Complete Booking amount including GST, Self-attested copy of AADHAR"
+          },
+          {
+            "tag": "documents_required_booking_property_proprietorship_firm",
+            "patterns": [
+              "What documents are required for booking a property as a proprietorship firm?",
+              "List the necessary documents for property booking as a proprietorship firm.",
+              "What paperwork is needed when booking a property as a proprietorship firm?"
+            ],
+            "responses": "Booking Application Form duly signed on every page by the Applicant, Colored Photograph of all applicants, Signature on Agreed/Accepted Payment Plan, Self-attested Copy of PAN of Proprietorship firm and Applicant in his individual capacity, Self-attested Copy of ID proof (Voter ID/PAN/Ration Card/Driving License/Passport) of Proprietorship firm and Applicant in his individual capacity, Self-attested Copy of Address proof (electricity/water/telephone/mobile bill) of Proprietorship Firm and applicant in his Individual Capacity, Complete Booking amount including GST, Self-attested copy of AADHAR"
+          },
+          {
+            "tag": "documents_required_booking_property_huf",
+            "patterns": [
+              "What documents are required for booking a property as a Hindu undivided family (HUF)?",
+              "List the necessary documents for property booking as an HUF.",
+              "What paperwork is needed when booking a property as an HUF?"
+            ],
+            "responses": "Booking Application Form duly signed on every page by the Applicant with Stamp, Colored Photograph of all applicants, Signature on Agreed/Accepted Payment Plan, Self-attested Copy of PAN of HUF and of KARTA in his Individual Capacity, Self-attested Copy of ID proof (Voter ID/PAN/Ration Card/Driving License/Passport) of HUF and of KARTA in his Individual Capacity, Self-attested Copy of Address proof (electricity/water/telephone/mobile bill) of HUF and of KARTA in his Individual Capacity, Complete Booking amount including GST, Self-attested copy of AADHAR"
+          },
+          {
+            "tag": "documents_required_booking_property_partnership_firm",
+            "patterns": [
+              "What documents are required for booking a property as a partnership firm?",
+              "List the necessary documents for property booking as a partnership firm.",
+              "What paperwork is needed when booking a property as a partnership firm?"
+            ],
+            "responses": "Booking Application Form duly signed on every page by the Applicant (Authorized Partner with Stamp), Colored Photograph of all Partners, Signature on Agreed/Accepted Payment Plan, Authorization Letter on Firm's Letterhead signed by all Partners, Self-attested Copy of PAN of Partnership Firm and all Partners in their Individual Capacity, Self-attested Copy of ID proof (Voter ID/PAN/Ration Card/Driving License/Passport) of Partnership Firm and all Partners in their Individual Capacity, Self-attested Copy of Address proof (electricity/water/telephone/mobile bill) of Partnership Firm and all Partners in their Individual Capacity, Copy of duly signed Partnership Deed, Complete Booking amount including GST, Self-attested copy of AADHAR"
+          },
+          {
+            "tag": "documents_required_booking_property_company",
+            "patterns": [
+              "What documents are required for booking a property as a company?",
+              "List the necessary documents for property booking as a company.",
+              "What paperwork is needed when booking a property as a company?"
+            ],
+            "responses": "Booking Application Form duly signed on every page by the Applicant (Authorized Director with Stamp), Signature on Agreed/Accepted Payment Plan, List of Directors on Letterhead, Copy of Board Resolution authorizing Director who has signed on the Application Form, Self-attested Copy of PAN of Company, Self-attested Copy of Address proof (Form 18 and Latest Annual Return of the company), Certified True Copies of Memorandum of Association (MOA) & Articles of Association (AOA), Complete Booking amount including GST, Self-attested copy of AADHAR"
+          }
+          
+        ]
+        
+    
+}
+ 
+ 
